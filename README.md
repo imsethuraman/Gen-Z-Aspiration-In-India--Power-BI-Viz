@@ -9,7 +9,8 @@ Dashboard PDF: https://drive.google.com/file/d/1ShCfE3f2ZTTrAT0dFZxinalo-EYhcJjX
 
 <img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0003" src="https://github.com/user-attachments/assets/c7b87e16-ea16-434a-8d96-99a33fe70bf2" />
 
-<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0001" src="https://github.com/user-attachments/assets/a3b76da3-b91c-493b-a24b-5dafecb8272d" />
+<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0003" src="https://github.com/user-attachments/assets/7568c3e7-3fda-428a-bde0-e36c8e5a32b9" />
+
 
 Key Features:
 Power BI dashboard with interactive visualizations.
