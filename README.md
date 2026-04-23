@@ -1,9 +1,15 @@
 # Gen--Z-Aspiration-In-India-Power-BI-Viz
-This repository contains a Power BI dashboard that visualizes and analyzes the career aspirations of Generation Z (Gen Z). It offers interactive visualizations and data insights to understand the career preferences, goals, and aspirations of the Gen Z population.
+This repository contains a Power BI dashboard that visualizes and analyzes the career aspirations of Generation Z (Gen Z). It offers interactive visualizations and data insights to help understand the career preferences, goals, and aspirations of Gen Z.
 
 GenZ Dashboard Link: https://app.powerbi.com/groups/me/reports/da089bf5-265c-4ab2-b382-1315245444be/ReportSection5f0370e12e71149b6589?experience=power-bi
 
-Dashboard Pdf: https://drive.google.com/file/d/1ShCfE3f2ZTTrAT0dFZxinalo-EYhcJjX/view?usp=sharing
+Dashboard PDF: https://drive.google.com/file/d/1ShCfE3f2ZTTrAT0dFZxinalo-EYhcJjX/view?usp=sharing
+
+<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0001" src="https://github.com/user-attachments/assets/8d9bff9c-0dfd-4b23-b89e-5b9fbafd9e4c" />
+
+<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0003" src="https://github.com/user-attachments/assets/c7b87e16-ea16-434a-8d96-99a33fe70bf2" />
+
+<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0001" src="https://github.com/user-attachments/assets/a3b76da3-b91c-493b-a24b-5dafecb8272d" />
 
 Key Features:
 Power BI dashboard with interactive visualizations.
