@@ -7,7 +7,8 @@ Dashboard PDF: https://drive.google.com/file/d/1ShCfE3f2ZTTrAT0dFZxinalo-EYhcJjX
 
 <img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0001" src="https://github.com/user-attachments/assets/8d9bff9c-0dfd-4b23-b89e-5b9fbafd9e4c" />
 
-<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0003" src="https://github.com/user-attachments/assets/c7b87e16-ea16-434a-8d96-99a33fe70bf2" />
+<img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0002" src="https://github.com/user-attachments/assets/9c2adfcd-3627-41a6-b0e5-7577e08d9624" />
+
 
 <img width="2000" height="1125" alt="Sethuraman B_Undersating_Career_Aspiration of Genz_page-0003" src="https://github.com/user-attachments/assets/7568c3e7-3fda-428a-bde0-e36c8e5a32b9" />
 
